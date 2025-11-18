@@ -46,6 +46,8 @@ featuring a shared business logic layer and native Android UI with Jetpack Compo
 
 </div>
 
+## Download Task Android App → [Here](https://drive.google.com/file/d/1FcIurbktgOIweBHRQh0EkREdKUQ3gcRa/view?usp=sharing)
+
 ### 📱 Frontend
 
 - **Android**: Jetpack Compose, Material Design 3
@@ -108,12 +110,12 @@ featuring a shared business logic layer and native Android UI with Jetpack Compo
 5. **Open a Pull Request**
 
 ### Code Style
+
 - Follow Kotlin coding conventions
 - Use meaningful variable names
 - Add comments for complex logic
 - Write unit tests for new features
 - Use Compose best practices for UI components
-
 
 ## License
 
