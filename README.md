@@ -6,7 +6,6 @@ featuring a shared business logic layer and native Android UI with Jetpack Compo
 ![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Jetpack%20Compose-3DDC84?logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-Database-3DDC84?logo=android&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## 🚀 Features
 
