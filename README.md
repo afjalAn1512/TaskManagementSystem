@@ -40,9 +40,10 @@ featuring a shared business logic layer and native Android UI with Jetpack Compo
 
 <div align="center">
 
-| Task List                                                         | Add Task                                                        | Edit Task                                                         |
-|-------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|
-| <img src="screenshots/task_list.png" width="200" alt="Task List"> | <img src="screenshots/add_task.png" width="200" alt="Add Task"> | <img src="screenshots/edit_task.png" width="200" alt="Edit Task"> |
+| Task List                                                           | Add Task                                                           | Edit Task                                                           |
+|---------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+| <img src="screenshots/task_list.png" width="200" alt="Task List">   | <img src="screenshots/add_task.png" width="200" alt="Add Task">    | <img src="screenshots/edit_task.png" width="200" alt="Edit Task">   |
+| <img src="screenshots/search_task.png" width="200" alt="Task List"> | <img src="screenshots/delete_task.png" width="200" alt="Add Task"> | <img src="screenshots/update_task.png" width="200" alt="Edit Task"> |
 
 </div>
 
